@@ -1,0 +1,9 @@
+{
+  "ontologies": [
+    {
+      "url": "https://raw.githubusercontent.com/FiorelaCiroku/XDTestingDemo/main/.xd-testing/RacingCars/RacingCars.owl",
+      "name": "RacingCars",
+      "userDefined": true
+    }
+  ]
+}
