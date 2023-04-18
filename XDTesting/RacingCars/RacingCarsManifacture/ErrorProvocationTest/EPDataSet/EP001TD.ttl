@@ -4,4 +4,3 @@
 
 td:Toxicity mp:isInvolvedInMusicalPerformance td:SystemOfADown-FirenzeRocks2017 .
 td:SystemOfADown-FirenzeRocks2017 core:hasPlace td:Florence .
-td:Florence a core:TimeInterval .
