@@ -5,5 +5,12 @@
       "name": "RacingCars",
       "userDefined": true
     }
+  ],
+  "fragments": [
+    {
+      "name": "RacingCarsManifacture",
+      "ontologyName": "RacingCars",
+      "fileName": "RacingCars/RacingCarsManifacture/ferrari.owl"
+    }
   ]
 }
