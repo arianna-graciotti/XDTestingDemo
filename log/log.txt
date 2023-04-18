@@ -1,0 +1,2 @@
+ INFO 2023-04-18 15:21:00,747 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/FiorelaCiroku/XDTestingDemo/main/XDTesting/RacingCars/RacingCarsManifacture/ErrorProvocationTest/EPTestCase/EP001.ttl
+ INFO 2023-04-18 15:21:03,632 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/FiorelaCiroku/XDTestingDemo/main/XDTesting/RacingCars/RacingCarsManifacture/ErrorProvocationTest/EPTestCase/EP001.ttl
